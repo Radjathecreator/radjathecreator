@@ -1,6 +1,6 @@
-# Hi, I'm Radja 👋 | Data Scientist & AI Product Builder
+# Hi, I'm Radja | Data Scientist & AI Product Builder
 
-I build accurate predictive models that solve real business problems, and I connect them with modern generative AI 🤖. 
+I build accurate predictive models that solve real business problems, and I connect them with modern generative AI. 
 
 I care deeply about clean data, solid math, and practical results. I create hybrid systems that turn raw numbers into clear, actionable answers.
 
