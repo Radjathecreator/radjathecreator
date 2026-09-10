@@ -1,4 +1,4 @@
-# Hi, I'm Dean 👋 | Data Scientist & AI Product Builder
+# Hi, I'm Radja 👋 | Data Scientist & AI Product Builder
 
 I build accurate predictive models that solve real business problems, and I connect them with modern generative AI 🤖. 
 
