@@ -18,5 +18,5 @@ I care deeply about clean data, solid math, and practical results. I create hybr
 * Beavers are my inspiration (relentless builders who construct solid, working systems) 
 
 ## 📫 How to Reach Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/radjakurniawan)
+* **LinkedIn:** [linkedin.com](https://linkedin.com/in/radjakurniawan)
 * **Email:** pro.rkurniawan@gmail.com
