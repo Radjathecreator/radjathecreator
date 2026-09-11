@@ -9,13 +9,13 @@ I care deeply about clean data, solid math, and practical results. I create hybr
 * **Generative AI & LLMs:** RAG Architectures, Transformers, Hugging Face, LangChain, FAISS, ChromaDB
 * **Deployment & MLOps:** Docker, FastAPI, Streamlit, Git, GitHub
 
-## 🚧 Work in Progress
+🚧 Work in Progress
 Preparing for Microsoft Azure DP-900 (Data Fundamentals) & AI-900 (AI Fundamentals) certifications
 
-## 🎯 Fun Facts
+🎯 Fun Facts
 Originally from a country with thousands of islands 🌴
 Beavers are my inspiration (relentless builders who construct solid working systems) 
 
-## 📫 How to Reach Me
+📫 How to Reach Me
 **LinkedIn:** [Radja KURNIAWAN](https://linkedin.com/in/radjakurniawan)
 **Email:** pro.rkurniawan@gmail.com
