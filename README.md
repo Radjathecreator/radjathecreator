@@ -7,8 +7,8 @@ I care deeply about clean data, solid math, and practical results. I create hybr
 Preparing for Microsoft Azure DP-900 (Data Fundamentals) & AI-900 (AI Fundamentals) certifications
 
 📫 How to Reach Me
-**LinkedIn:** [Radja KURNIAWAN](https://linkedin.com/in/radjakurniawan)
-**Email:** pro.rkurniawan@gmail.com
+* **LinkedIn:** [Radja KURNIAWAN](https://linkedin.com/in/radjakurniawan)
+* **Email:** pro.rkurniawan@gmail.com
 
 ## 🛠️ Tech Stack
 * **Languages & Data:** Python, SQL, Pandas, NumPy, Statsmodels
