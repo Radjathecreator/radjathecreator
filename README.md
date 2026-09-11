@@ -1,7 +1,6 @@
-# Hi, I'm Radja | Data Scientist & AI Product Builder
+# Hi, I'm Radja 👋 | Data Scientist & AI Product Builder
 
-I build accurate predictive models that solve real business problems, and I connect them with modern generative AI. 
-
+I build accurate predictive models that solve real business problems, and I connect them with modern generative AI 🤖. 
 I care deeply about clean data, solid math, and practical results. I create hybrid systems that turn raw numbers into clear, actionable answers.
 
 ## 🛠️ Tech Stack
@@ -10,13 +9,13 @@ I care deeply about clean data, solid math, and practical results. I create hybr
 * **Generative AI & LLMs:** RAG Architectures, Transformers, Hugging Face, LangChain, FAISS, ChromaDB
 * **Deployment & MLOps:** Docker, FastAPI, Streamlit, Git, GitHub
 
-## 📚 Currently Learning
-* Advanced MLOps pipelines and scaling RAG architectures for enterprise production
+## 🚧 Work in Progress
+Preparing for Microsoft Azure DP-900 (Data Fundamentals) & AI-900 (AI Fundamentals) certifications
 
 ## 🎯 Fun Facts
-* Originally from a country with thousands of islands 🌴
-* Beavers are my inspiration (relentless builders who construct solid, working systems) 
+Originally from a country with thousands of islands 🌴
+Beavers are my inspiration (relentless builders who construct solid working systems) 
 
 ## 📫 How to Reach Me
-* **LinkedIn:** [linkedin.com](https://linkedin.com/in/radjakurniawan)
-* **Email:** pro.rkurniawan@gmail.com
+**LinkedIn:** [Radja KURNIAWAN](https://linkedin.com/in/radjakurniawan)
+**Email:** pro.rkurniawan@gmail.com
