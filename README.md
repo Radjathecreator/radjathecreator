@@ -6,8 +6,9 @@ I care deeply about clean data, solid math, and practical results. I create hybr
 🚧 Work in Progress
 Preparing for Microsoft Azure DP-900 (Data Fundamentals) & AI-900 (AI Fundamentals) certifications
 
-🎯 Fun Facts
+Fun Facts
 Originally from a country with thousands of islands 🌴
+
 Beavers are my inspiration (relentless builders who construct solid working systems) 
 
 📫 How to Reach Me
